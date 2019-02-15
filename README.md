@@ -49,7 +49,7 @@ whether it worked.
 3. Make the source available as a cloneable repo, for example, on Github, and provide the link below. Be sure to include instructions on how to run the application in the README. 
 
 ## Completed project link
-Find my project source code [https://github.com/Akhila0729/react-project]() (update this to link to your completed project).
+Find my project source code [https://github.com/Akhila0729/test-react-project](https://github.com/Akhila0729/test-react-project) (update this to link to your completed project).
 
 # License
 
